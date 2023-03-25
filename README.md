@@ -13,7 +13,7 @@ This project is a Node.js app that receives SMS messages via Twilio, sends them 
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
 3. Create a `.env` file and add your Twilio and OpenAI API credentials.
-4. Run `node src/app.js` to start the server.
+4. Run `npm start` to start the server.
 
 ## Usage
 
@@ -26,5 +26,5 @@ This project is a Node.js app that receives SMS messages via Twilio, sends them 
 This project is licensed under the MIT License.
 
 ## TODO
-- Add ability to clear convo (start new convo) 
 - Add ability to set system "who are you" prompt
+- Log transcripts somewhere
