@@ -1,4 +1,3 @@
-// const { ChatGPTAPI } = require('chatgpt');
 const config = require('../../config');
 
 const chatGPT = async (prompt) => {

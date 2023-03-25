@@ -24,3 +24,7 @@ This project is a Node.js app that receives SMS messages via Twilio, sends them 
 ## License
 
 This project is licensed under the MIT License.
+
+## TODO
+- Add ability to clear convo (start new convo) 
+- Add ability to set system "who are you" prompt
